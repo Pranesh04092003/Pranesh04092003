@@ -1,15 +1,14 @@
 ## Hi there 👋 It's me Pranesh
 
-CSE Final Year Student 
+CSE Final Year Student
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://pranesh-portfolio.web.app/)
-- 🔭 Currently working on: MERN projects
 - 🌱 Learning: Advanced JavaScript and backend technologies
 - 👯 Looking to collaborate on: Full-stack development projects
 - 💬 Ask me about: Efficient coding practices, modern web development, and optimizing performance
 - 📫 How to reach me: pranesh2k25cse@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
+- ⚡ Fun fact: I can solve a Rubik's cube in under a minute!                                        
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
