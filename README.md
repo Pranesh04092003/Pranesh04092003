@@ -10,6 +10,5 @@ CSE Final Year Student
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can solve a Rubik's cube in under a minute!  
 
-gjio tnrx oiqq tjdq                                      
 
 
