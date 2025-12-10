@@ -8,6 +8,8 @@ CSE Final Year Student
 - 💬 Ask me about: Efficient coding practices, modern web development, and optimizing performance
 - 📫 How to reach me: pranesh2k25cse@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can solve a Rubik's cube in under a minute!                                        
+- ⚡ Fun fact: I can solve a Rubik's cube in under a minute!  
+
+gjio tnrx oiqq tjdq                                      
 
 
